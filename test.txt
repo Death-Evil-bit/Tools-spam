@@ -1,0 +1,24 @@
+===============================================
+TEST DATE: 2025-02-16
+===============================================
+
+SINGLE TARGET TEST (30 menit):
+- Target: 628xxxxxxxx
+- Threads: 200
+- OTP Terkirim: 3,847
+- Kecepatan: 128 OTP/menit
+- Status Target: Stress, HP notif terus
+
+MULTI TARGET TEST (5 target):
+- Target: 5 nomor berbeda
+- Threads per target: 100
+- Total OTP: 12,543
+- Semua target kewalahan
+
+NUKE MODE TEST (1 jam):
+- Target: 628xxxxxxxx
+- Threads: 1000
+- Total OTP: 28,942
+- Kecepatan: 482 OTP/menit
+- Hasil: Target mati total, HP restart
+===============================================

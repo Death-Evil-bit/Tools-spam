@@ -1,0 +1,17 @@
+┌─────────────────────────────────────┐
+│ Pasal 30 UU ITE                      │
+│ "Mengakses komputer orang lain       │
+│  tanpa izin"                         │
+│ Hukuman: 8 tahun penjara             │
+├─────────────────────────────────────┤
+│ Pasal 32 UU ITE                      │
+│ "Merusak sistem elektronik"          │
+│ Hukuman: 9 tahun penjara             │
+├─────────────────────────────────────┤
+│ Pasal 35 UU ITE                      │
+│ "Memalsukan data elektronik"         │
+│ Hukuman: 12 tahun penjara            │
+├─────────────────────────────────────┤
+│ DENDA: Rp 1.000.000.000              │
+│ (Satu Miliar Rupiah)                  │
+└─────────────────────────────────────┘
